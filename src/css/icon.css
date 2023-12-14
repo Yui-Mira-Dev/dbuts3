@@ -1,0 +1,18 @@
+.custom-icon-store::before {
+    content: "";
+    display: inline-block;
+    width: 20px; 
+    height: 20px; 
+    background-image: url(https://images.tokopedia.net/img/banner/2019/8/23/2892668/2892668_450053e1-5707-46c0-bf69-a5077b4e7176.png);
+    background-size: cover;
+    margin-right: 5px; 
+}
+.custom-icon-bintang::before {
+    content: "";
+    display: inline-block;
+    width: 20px; 
+    height: 19px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2tU5A04cU57SFLjG9CtROpvMs3FbHHrtLWg&usqp=CAU); 
+    background-size: cover;
+    margin-right: 5px; 
+}

@@ -1,0 +1,15 @@
+/* Gaya navigasi di atas 992px */
+nav {
+    visibility: visible;
+}
+
+  /* Gaya navigasi di bawah 992px */
+    @media (max-width: 992px) {
+    .nav2 {
+        visibility: hidden;
+    }
+    .info-produc{
+        margin-top: 58px;
+    }
+}
+

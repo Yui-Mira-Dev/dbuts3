@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* nav */
+nav{
+    background-color: #e3f2fd;;
+}
+
+.navbar-brand:nth-child(1){
+    color: blue;
+}
+
+.me-2:nth-child(1){
+    width: 80%;
+}
+
+.search112{
+    width: 80%;
+}
+
+form button{
+    margin-right: 10px;
+}
+
+.nav2{
+    margin-top: 50px;
+    text-align: center;
+    position: fixed;
+}
+.p-21{
+    margin-top: 15px;
+}
+
+.btn12{
+    width: 10%;
+    height: 12%;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.sp12{
+    justify-content: space-around;
+    margin-right: 15px;
+}
+/* produc */
+.info-produc{
+    margin-top: 108px;
+}
+
+.offcanvas {
+    width: 100%;
+    margin-top: 100px;
+    /* background-color: black; */
+}
+
+.offcanvas-body {
+    padding: 0;
+}
+
+.mr1{
+    margin-right: 25px;
+}
+
+/* tables */
+.tdb{
+    font-weight: bold;
+}
+
+/* discount */
+.discount{
+    background-color: rgb(255, 230, 230);
+    border-radius: 10%;
+}
+
+.cashback{
+    background-color: rgb(188, 255, 198);
+    border-radius: 10%;
+}
+
+.terjual{
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.textdiscount{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.tfoot-toko{
+    margin-top: 50px;
+}
+
+.tfoot-p{
+    text-align: justify;
+    font-size: small;
+}
+
